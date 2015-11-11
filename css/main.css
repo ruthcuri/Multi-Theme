@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald); /*H1*/
+body,html{
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+#our-works{
+    background-color: #E0D4F8;
+    padding: 5% 0;
+}
+hr{
+    width: 20%;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+
+}
+p{
+    font-size: 1.2em;
+}
+.circle{
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    border: 2px solid white;
+    background-color: skyblue;
+
+}
+.definition{
+    text-align:center;
+    width: 50%;
+        margin-left: 24%;
+}
+.img-responsive{
+    padding-bottom: 31px;
+}
+.navbar-default {
+    background-color: white;
+    border-color: white;
+}
+.btn-group{
+    padding: 5% 0;
+}
+h2{
+  font-family: 'Oswald', sans-serif;  
+}
+.fa{
+    background-color: skyblue;
+}
+.read-more {
+    margin-top: 12px;
+    background-color: skyblue;
+    width: 25%;
+    height: 45px;
+}
+
+#about-us{
+    padding: 5% 0;
+}
+
+/****get in touch****/
+#get-in-touch{
+    background-color: skyblue;
+    padding: 5% 0;
+}
+.get{
+    color: white;
+}
+
+/**formulario**/
+#formulario{
+    background-image: url("../map.jpg");
+    background-attachment: fixed;
+     }
